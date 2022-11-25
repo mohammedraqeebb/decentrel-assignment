@@ -1,0 +1,20 @@
+{
+  "name": "ondecentral-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "jest": "^29.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
